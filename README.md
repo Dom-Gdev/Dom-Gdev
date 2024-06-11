@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dom-Gdev
+# 👋 Hi, I’m @Dom-Gdev
 - I'm a game developer.
 - Currently learning C#.
 
